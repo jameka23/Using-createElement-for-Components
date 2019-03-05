@@ -17,7 +17,7 @@ listItem.className = "president"
 listItem.textContent = "George Bush"
 
 // Put the list item on the unordered list
-list.appendChild(listItem)
+list.appendChild(listItem)  
 
 console.log(list)
 
